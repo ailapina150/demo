@@ -1,3 +1,4 @@
 GET localhost:8000/users/1
 ###
 GET localhost:8000/users
+Content-Type: application/json
